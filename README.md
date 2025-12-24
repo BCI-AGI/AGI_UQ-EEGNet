@@ -1,1 +1,1 @@
-# AGI_UQ-EEGNet
+# AGI_UQ_EEGNet
